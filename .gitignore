@@ -25,3 +25,7 @@ buildNumber.properties
 
 # IntelliJ
 /out/
+
+# js and css libraries
+src/main/webapp/js/
+src/main/webapp/styles/
